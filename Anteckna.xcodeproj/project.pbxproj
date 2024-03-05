@@ -13,6 +13,7 @@
 		2F7996202B97CDE200279F24 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F79961F2B97CDE200279F24 /* ContentView.swift */; };
 		2F7996222B97CDE400279F24 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F7996212B97CDE400279F24 /* Assets.xcassets */; };
 		2F7996262B97CDE400279F24 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F7996252B97CDE400279F24 /* Preview Assets.xcassets */; };
+		2F79962F2B97D3AA00279F24 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F79962E2B97D3AA00279F24 /* EditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2F7996212B97CDE400279F24 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F7996232B97CDE400279F24 /* Anteckna.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Anteckna.entitlements; sourceTree = "<group>"; };
 		2F7996252B97CDE400279F24 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2F79962E2B97D3AA00279F24 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2F7996232B97CDE400279F24 /* Anteckna.entitlements */,
 				2F79961C2B97CDE200279F24 /* Anteckna.xcdatamodeld */,
 				2F7996242B97CDE400279F24 /* Preview Content */,
+				2F79962E2B97D3AA00279F24 /* EditView.swift */,
 			);
 			path = Anteckna;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F79961E2B97CDE200279F24 /* Anteckna.xcdatamodeld in Sources */,
+				2F79962F2B97D3AA00279F24 /* EditView.swift in Sources */,
 				2F7996192B97CDE200279F24 /* AntecknaApp.swift in Sources */,
 				2F7996202B97CDE200279F24 /* ContentView.swift in Sources */,
 				2F79961B2B97CDE200279F24 /* Persistence.swift in Sources */,
